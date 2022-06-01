@@ -5,3 +5,4 @@
 2022-05-29 - actividad 1
 2022-05-30 - actividad 1
 2022-05-31 - actividad 1
+2022-06-01 - actividad 1
