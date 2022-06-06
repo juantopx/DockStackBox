@@ -10,3 +10,4 @@
 2022-06-03 - actividad 1
 2022-06-04 - actividad 1
 2022-06-05 - actividad 1
+2022-06-06 - actividad 1
