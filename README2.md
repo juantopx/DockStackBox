@@ -34,3 +34,4 @@
 2022-06-27 - actividad 1
 2022-06-28 - actividad 1
 2022-06-29 - actividad 1
+2022-06-30 - actividad 1
