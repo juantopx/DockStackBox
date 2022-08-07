@@ -72,3 +72,4 @@
 2022-08-04 - actividad 1
 2022-08-05 - actividad 1
 2022-08-06 - actividad 1
+2022-08-07 - actividad 1
