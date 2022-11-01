@@ -158,3 +158,4 @@
 2022-10-29 - actividad 1
 2022-10-30 - actividad 1
 2022-10-31 - actividad 1
+2022-11-01 - actividad 1
