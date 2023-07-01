@@ -400,3 +400,4 @@
 2023-06-28 - actividad 1
 2023-06-29 - actividad 1
 2023-06-30 - actividad 1
+2023-07-01 - actividad 1
