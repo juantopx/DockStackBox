@@ -463,3 +463,4 @@
 2023-08-30 - actividad 1
 2023-08-31 - actividad 1
 2023-09-01 - actividad 1
+2023-09-02 - actividad 1
