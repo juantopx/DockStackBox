@@ -553,3 +553,4 @@
 2023-11-28 - actividad 1
 2023-11-29 - actividad 1
 2023-11-30 - actividad 1
+2023-12-01 - actividad 1
