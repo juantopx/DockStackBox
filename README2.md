@@ -585,3 +585,4 @@
 2023-12-30 - actividad 1
 2023-12-31 - actividad 1
 2024-01-01 - actividad 1
+2024-01-02 - actividad 1
