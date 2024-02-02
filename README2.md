@@ -616,3 +616,4 @@
 2024-01-30 - actividad 1
 2024-01-31 - actividad 1
 2024-02-01 - actividad 1
+2024-02-02 - actividad 1
