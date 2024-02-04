@@ -618,3 +618,4 @@
 2024-02-01 - actividad 1
 2024-02-02 - actividad 1
 2024-02-03 - actividad 1
+2024-02-04 - actividad 1
