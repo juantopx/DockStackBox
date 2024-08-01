@@ -797,3 +797,4 @@
 2024-07-29 - actividad 1
 2024-07-30 - actividad 1
 2024-07-31 - actividad 1
+2024-08-01 - actividad 1
