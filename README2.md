@@ -802,3 +802,4 @@
 2024-08-03 - actividad 1
 2024-08-04 - actividad 1
 2024-08-05 - actividad 1
+2024-08-06 - actividad 1
