@@ -858,3 +858,4 @@
 2024-09-28 - actividad 1
 2024-09-29 - actividad 1
 2024-09-30 - actividad 1
+2024-10-01 - actividad 1
