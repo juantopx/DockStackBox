@@ -920,3 +920,4 @@
 2024-11-29 - actividad 1
 2024-11-30 - actividad 1
 2024-12-01 - actividad 1
+2024-12-02 - actividad 1
