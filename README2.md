@@ -981,3 +981,4 @@
 2025-01-29 - actividad 1
 2025-01-30 - actividad 1
 2025-01-31 - actividad 1
+2025-02-01 - actividad 1
