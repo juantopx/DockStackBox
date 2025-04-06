@@ -1045,3 +1045,4 @@
 2025-04-03 - actividad 1
 2025-04-04 - actividad 1
 2025-04-05 - actividad 1
+2025-04-06 - actividad 1
