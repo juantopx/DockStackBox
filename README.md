@@ -5,12 +5,12 @@
 [![MariaDB](https://img.shields.io/badge/MariaDB-10.5-blue)](https://mariadb.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](https://opensource.org/licenses/MIT)
 
-DockStackBox es un entorno de desarrollo basado en Docker que proporciona un **stack LAMP** completo para aplicaciones PHP modernas. Ideal para desarrolladores que necesitan un entorno rápido y flexible para crear, probar y desplegar aplicaciones web PHP con Apache, MySQL/MariaDB y PHP.
+DockStackBox es un entorno de desarrollo basado en Docker que proporciona un **stack LAMP** completo para aplicaciones PHP modernas. Ideal para desarrolladores que necesitan un entorno rápido y flexible para crear, probar y desplegar aplicaciones web PHP con NGINX, MySQL/MariaDB y PHP.
 
 ## 🚀 Características
 
 - 🐳 **Dockerized**: Entorno completamente encapsulado usando Docker.
-- 🌐 **Apache**: Servidor web confiable y fácil de configurar.
+- 🌐 **NGINX**: Servidor web confiable y fácil de configurar.
 - 🗃️ **MariaDB**: Base de datos relacional ligera y de alto rendimiento.
 - 🧑‍💻 **PHP 8.2**: Compatible con la última versión estable de PHP.
 - 📦 Listo para aplicaciones PHP personalizadas o frameworks populares como **WordPress**, **Laravel**, **Symfony**, entre otros.
